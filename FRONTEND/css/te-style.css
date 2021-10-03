@@ -1,0 +1,28 @@
+.member_cards {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: center space-evenly;
+    align-items: stretch;
+    align-content: space-between;
+}
+
+.card {
+    margin: 15px 15px 15px 15px;
+    background-color: bisque;
+    border-radius: 5%;
+}
+
+.membertype {
+    font-size: 30px;
+}
+
+.memberinfo {
+    font-size: 20px;
+    text-align: left;
+}
+
+.b1 {
+    color: black;
+    text-align: center;
+}
